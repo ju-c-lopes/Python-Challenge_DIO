@@ -1,0 +1,42 @@
+[
+   {
+      "Instrutor": "Lais Lima",
+      "Profissão": "Software Engineer",
+      "Empresa": "Estratégia Educacional"
+   },
+   {
+      "Instrutor": "Lucas Santos",
+      "Profissão": "Cloud Developer Advocate",
+      "Empresa": "Microsoft"
+   },
+   {
+      "Instrutor": "Kamila Oliveira",
+      "Profissão": "Backend Developer",
+      "Empresa": "Ame Digital"
+   },
+   {
+      "Instrutor": "Oswaldo Neto",
+      "Profissão": "CTO",
+      "Empresa": "Lady Driver"
+   },
+   {
+      "Instrutor": "Eduardo Cesar",
+      "Profissão": "Arquiteto de software",
+      "Empresa": "ZarpSystem"
+   },
+   {
+      "Instrutor": "Camila Campos",
+      "Profissão": "Software Engineer",
+      "Empresa": "Creditas"
+   },
+   {
+      "Instrutor": "Gabriel Faraday",
+      "Profissão": ".NET Developer",
+      "Empresa": "Vidalink do Brasil"
+   },
+   {
+      "Instrutor": "Thiago Barradas",
+      "Profissão": "Software Engineer",
+      "Empresa": "MundiPagg"
+   }
+]
